@@ -2,7 +2,6 @@
 
 Self-taught developer from Kathmandu, Nepal 🇳🇵
 
-Currently preparing for a **Fachinformatiker Anwendungsentwicklung** Ausbildung in Germany 🇩🇪
 
 ## What I build
 - 🦻 **[asha-windows](https://github.com/pokhrelmishan/asha-windows)** — Bluetooth Low Energy / ASHA protocol research for Windows
