@@ -1,6 +1,6 @@
 # Hi, I'm stythe 👋
 
-Self-taught developer from Kathman
+Self-taught developer from Kathmandu
 
 
 ## What I build
