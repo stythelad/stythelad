@@ -1,7 +1,6 @@
 # Hi, I'm stythe 👋
 
-Self-taught developer from Kathmandu. I build small, sharp tools in Go and Python, mostly around two questions: **how do we keep track of what AI writes?** and **how do hearing aids get the audio they deserve on every platform?**
-
+Self-taught developer from Kathmandu. I build small, sharp tools in Go and Python.
 ## Featured projects
 
 ### [auteur](https://github.com/stythelad/auteur) &nbsp;`Go`
