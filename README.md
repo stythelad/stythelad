@@ -35,6 +35,6 @@ df -h
 
 ## Right now
 
-- **auteur**: working toward v0.2, including rebase survival for pending records
+- **auteur**: working toward v1.0
 - **asha-windows**: looking for people to test other hearing aid brands (Phonak, Starkey, Widex)
 - Always glad to get feedback. Open an issue on any repo above.
